@@ -1,0 +1,68 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  
+  Fill in your answer here
+
+
+It helped me see the spelling errors because I could check the correct version and wrong one
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+   
+ Fill in your answer here
+
+
+It could enable me see the outcomes of different versions of code and enable me select wht is best
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+    I dont know
+Fill in your answer here
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  
+  NO idea Fill in your answer here
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+   
+ Fill in your answer here
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+   
+ Fill in your answer here
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  
+  Fill in your answer here
+
+
+git commands
+git log --stat
+git diff 'commit2id' 'commit1id'
+git clone 'repository url'
+git checkout 'commitid' = to reset commits
+mv 'filename1' 'filename2'
+
+github does not work with proxy
+
+git init = initializes a repository
+when you do ls -a in the directory you should see a .git
+
+git status = shows which files have changed
+
+git and git hub are very different
